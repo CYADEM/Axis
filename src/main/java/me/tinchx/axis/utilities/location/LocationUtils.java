@@ -21,7 +21,7 @@ public class LocationUtils {
         if (s == null || s.equals("Location Not Found") || s.equals("")) {
             return null;
         }
-        String[] data = s.split("\\|'");
+        String[] data = s.split("\\|");
         return new Location(Bukkit.getWorld(data[3]), Double.parseDouble(data[0]), Double.parseDouble(data[1]), Double.parseDouble(data[2]), Float.parseFloat(data[4]), Float.parseFloat(data[5]));
     }
 
