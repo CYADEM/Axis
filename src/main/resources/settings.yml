@@ -1,0 +1,109 @@
+server:
+  lobby_name: lobby
+  web_direct_url: "http://104.194.10.146:300/register"
+  server_ip: axis.net
+  teamspeak: ts.axis.net
+  discord: discord.axis.net
+  do_mob_spawn: false
+  do_leaves_decay: false
+  do_weather_change: false
+  do_thunder_change: false
+  do_hanging_break: false
+  do_block_burn: false
+  do_block_spread: false
+  do_entity_explode: false
+  do_world_load_clean: true
+  do_world_load_remove_entities: true
+  hub_command: true
+  join_command: true
+  ranks: true
+  staff_mode: true
+  cosmetics: true
+  teamspeak_api: true
+  web_register: true
+  nick_command: false
+  social_links: true
+
+permissions:
+  staff: "utilities.player.staff"
+  donator: "utilities.player.donator"
+  donator_top: "utilities.player.donator.top"
+
+announce:
+  enabled: true
+  delay: 300
+  messages:
+    - "&d{0}&6&l[TIP] &eFollow our twitter for more information: &7@AxisProyect"
+    - "&d{0}&6&l[TIP] &e&eCheck out our store support the server and get perks: &7store.axis.net{0}&d"
+
+filtered_words:
+  - faggot
+  - suckmydick
+  - smd
+  - stfu
+  - bitch
+  - fuckoff
+  - retard
+  - gay
+  - gey
+  - gei
+  - gai
+
+allowed_links:
+  - teamshq.us
+  - youtube.com
+  - youtu.be
+  - discord.gg
+  - twitter.com
+
+disallowed_commands:
+  - /bukkit
+  - /ver
+  - /minecraft
+  - /pl
+  - //calc
+  - //eval
+
+prefixes-inventory:
+  title: "&6&lPrefixes"
+  rows: 3
+
+prefixes-section:
+  pro:
+    slots: 0
+    clickable: true
+    section:
+      name: "PRO"
+      title: "&9Pro Tags"
+      rows: 3
+    material:
+      type: 340
+      data: 0
+      display-name: "&9Pro Tags"
+      lore:
+        - " "
+        - "&7Click here to see Pro Tags"
+        - "&a** Click Here **"
+        - " "
+    tag:
+      selected: "&aTag selected."
+      select: "&aClick to activate."
+      no-perms: "&cYou don't own this tag."
+      material:
+        type: 340
+        data: 0
+        display-name: "{TAG_PREFIX}"
+        lore:
+          - "&7Shows up as:"
+          - "{TAG_PREFIX}"
+          - " "
+          - "{TAG_STATUS}"
+
+database:
+  mongo:
+    host: "127.0.0.1"
+    port: 27017
+    authentication:
+      enabled: false
+      user: user
+      password: ''

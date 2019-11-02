@@ -1,0 +1,443 @@
+Member:
+  name: Member
+  prefix: '&a'
+  suffix: null
+  color: '&a'
+  default: true
+  priority: 19
+  permissions:
+  - none
+Anubis:
+  name: Anubis
+  prefix: '&9&l'
+  suffix: null
+  color: '&9'
+  default: false
+  priority: 18
+  permissions:
+  - utilities.player.donator
+Cronos:
+  name: Cronos
+  prefix: '&a&l'
+  suffix: null
+  color: '&a'
+  default: false
+  priority: 17
+  permissions:
+  - utilities.player.donator
+Poseidon:
+  name: Poseidon
+  prefix: '&5&l'
+  suffix: null
+  color: '&5'
+  default: false
+  priority: 16
+  permissions:
+  - utilities.player.donator
+  - utilities.player.donator.poseidon
+Zeus:
+  name: Zeus
+  prefix: '&4&l'
+  suffix: null
+  color: '&4'
+  default: false
+  priority: 15
+  permissions:
+  - utilities.player.donator
+  - utilities.player.donator.poseidon
+YouTuber:
+  name: YouTuber
+  prefix: '&7[&5YouTuber&7] &5'
+  suffix: null
+  color: '&5'
+  default: false
+  priority: 14
+  permissions:
+  - utilities.player.donator
+Famous:
+  name: Famous
+  prefix: '&7[&6Famous&7] &6'
+  suffix: null
+  color: '&6'
+  default: false
+  priority: 13
+  permissions:
+  - utilities.player.donator
+  - utilities.player.donator.poseidon
+Partner:
+  name: Partner
+  prefix: '&7[&dPartner&7] &d'
+  suffix: null
+  color: '&d'
+  default: false
+  priority: 12
+  permissions:
+  - utilities.player.donator
+  - utilities.player.donator.poseidon
+  - utilities.player.staff
+Builder:
+  name: Builder
+  prefix: '&7[&eBuilder&7] &e'
+  suffix: null
+  color: '&e'
+  default: false
+  priority: 11
+  permissions:
+  - nothing
+TrialMod:
+  name: Trial-Mod
+  prefix: '&7[&2Trial-Mod&7] &2'
+  suffix: null
+  color: '&2'
+  default: false
+  priority: 10
+  permissions:
+  - utilities.player.staff
+Moderator:
+  name: Mod
+  prefix: '&7[&3Mod&7] &3'
+  suffix: null
+  color: '&3'
+  default: false
+  priority: 9
+  permissions:
+  - utilities.player.staff
+  - axis.command.unmute
+  - axis.command.mute
+  - axis.command.ban
+  - axis.command.rename
+  - axis.command.teleportcoords
+  - axis.command.mutechat
+  - axis.command.alts
+  - axis.command.history
+SeniorMod:
+  name: Senior-Mod
+  prefix: '&7[&3Senior-Mod&7] &3'
+  suffix: null
+  color: '&3'
+  default: false
+  priority: 8
+  permissions:
+  - utilities.player.staff
+  - axis.command.unmute
+  - axis.command.mute
+  - axis.command.ban
+  - axis.command.unban
+  - axis.command.rename
+  - axis.command.teleportcoords
+  - axis.command.mutechat
+  - axis.command.alts
+  - axis.command.history
+  - axis.command.repair
+  - axis.command.craft
+  - axis.command.faction.mute
+  - axis.command.faction.unmute
+  - axis.command.faction.raid
+HeadMod:
+  name: Head-Mod
+  prefix: '&7[&bHead-Mod&7] &b'
+  suffix: null
+  color: '&b'
+  default: false
+  priority: 7
+  permissions:
+  - utilities.player.staff
+  - axis.command.unmute
+  - axis.command.mute
+  - axis.command.ban
+  - axis.command.unban
+  - axis.command.rename
+  - axis.command.teleportcoords
+  - axis.command.mutechat
+  - axis.command.alts
+  - axis.command.history
+  - axis.command.repair
+  - axis.command.craft
+  - axis.command.gamemode
+  - axis.command.skull
+  - axis.command.world
+  - axis.command.more
+  - axis.command.death.revive
+  - axis.command.death.refund
+  - axis.command.faction.forcejoin
+  - axis.command.faction.forcekick
+  - axis.command.faction.forceleader
+  - axis.command.faction.mute
+  - axis.command.faction.unmute
+  - axis.command.faction.raid
+Administrator:
+  name: Admin
+  prefix: '&7[&cAdmin&7] &c'
+  suffix: null
+  color: '&c'
+  default: false
+  priority: 6
+  permissions:
+  - utilities.player.staff
+  - axis.command.unmute
+  - axis.command.mute
+  - axis.command.ban
+  - axis.command.unban
+  - axis.command.rename
+  - axis.command.teleportcoords
+  - axis.command.mutechat
+  - axis.command.alts
+  - axis.command.history
+  - axis.command.repair
+  - axis.command.craft
+  - axis.command.gamemode
+  - axis.command.skull
+  - axis.command.world
+  - axis.command.more
+  - axis.command.kill
+  - axis.command.killentities
+  - axis.command.give
+  - axis.command.clearinventory
+  - axis.command.copyinventory
+  - axis.command.heal
+  - axis.command.suicide
+  - axis.command.enderchest
+  - axis.command.death.revive
+  - axis.command.death.refund
+  - axis.command.event.start
+  - axis.command.koth.start
+  - axis.command.faction.forcejoin
+  - axis.command.faction.forcekick
+  - axis.command.faction.forceleader
+  - axis.command.faction.mute
+  - axis.command.faction.unmute
+  - axis.command.faction.raid
+Senior-Admin:
+  name: Senior-Admin
+  prefix: '&7[&cSenior-Admin&7] &c'
+  suffix: null
+  color: '&c'
+  default: false
+  priority: 5
+  permissions:
+  - utilities.player.staff
+  - axis.command.unmute
+  - axis.command.mute
+  - axis.command.ban
+  - axis.command.unban
+  - axis.command.rename
+  - axis.command.teleportcoords
+  - axis.command.mutechat
+  - axis.command.alts
+  - axis.command.history
+  - axis.command.repair
+  - axis.command.craft
+  - axis.command.gamemode
+  - axis.command.skull
+  - axis.command.world
+  - axis.command.more
+  - axis.command.kill
+  - axis.command.killentities
+  - axis.command.give
+  - axis.command.clearinventory
+  - axis.command.copyinventory
+  - axis.command.heal
+  - axis.command.suicide
+  - axis.command.whitelist
+  - axis.command.enderchest
+  - axis.command.crate.give
+  - axis.command.crate.list
+  - axis.command.death.revive
+  - axis.command.death.refund
+  - axis.command.lives
+  - axis.command.event.start
+  - axis.command.koth.start
+  - axis.command.kit.give
+  - axis.command.faction.ban
+  - axis.command.faction.checkmute
+  - axis.command.faction.forcedemote
+  - axis.command.faction.forcejoin
+  - axis.command.faction.forcekick
+  - axis.command.faction.forceleader
+  - axis.command.faction.forcepromote
+  - axis.command.faction.mute
+  - axis.command.faction.unmute
+  - axis.command.faction.raid
+  - axis.command.faction.setdtr
+  - axis.command.faction.setdtrregen
+Platform-Admin:
+  name: Platform-Admin
+  prefix: '&7[&cPlatform-Admin&7] &c'
+  suffix: null
+  color: '&c'
+  default: false
+  priority: 4
+  permissions:
+  - utilities.player.staff
+  - axis.command.unmute
+  - axis.command.mute
+  - axis.command.ban
+  - axis.command.unban
+  - axis.command.rename
+  - axis.command.teleportcoords
+  - axis.command.mutechat
+  - axis.command.alts
+  - axis.command.history
+  - axis.command.repair
+  - axis.command.craft
+  - axis.command.gamemode
+  - axis.command.skull
+  - axis.command.world
+  - axis.command.more
+  - axis.command.kill
+  - axis.command.killentities
+  - axis.command.give
+  - axis.command.clearinventory
+  - axis.command.copyinventory
+  - axis.command.heal
+  - axis.command.suicide
+  - axis.command.whitelist
+  - axis.command.enderchest
+  - axis.command.crate.give
+  - axis.command.crate.list
+  - axis.command.death.revive
+  - axis.command.death.refund
+  - axis.command.lives
+  - axis.command.economy
+  - axis.command.event.start
+  - axis.command.koth.start
+  - axis.command.kit.give
+  - axis.command.sotw
+  - axis.command.blacklist
+  - axis.command.unblacklist
+  - axis.command.faction.ban
+  - axis.command.faction.checkmute
+  - axis.command.faction.forcedemote
+  - axis.command.faction.forcejoin
+  - axis.command.faction.forcekick
+  - axis.command.faction.forceleader
+  - axis.command.faction.forcepromote
+  - axis.command.faction.mute
+  - axis.command.faction.unmute
+  - axis.command.faction.raid
+  - axis.command.faction.setdtr
+  - axis.command.faction.setdtrregen
+Manager:
+  name: Manager
+  prefix: '&7[&9Manager&7] &9'
+  suffix: null
+  color: '&9'
+  default: false
+  priority: 3
+  permissions:
+  - utilities.player.staff
+  - axis.command.unmute
+  - axis.command.mute
+  - axis.command.ban
+  - axis.command.unban
+  - axis.command.rename
+  - axis.command.teleportcoords
+  - axis.command.mutechat
+  - axis.command.alts
+  - axis.command.history
+  - axis.command.repair
+  - axis.command.craft
+  - axis.command.gamemode
+  - axis.command.skull
+  - axis.command.world
+  - axis.command.more
+  - axis.command.kill
+  - axis.command.killentities
+  - axis.command.give
+  - axis.command.clearinventory
+  - axis.command.copyinventory
+  - axis.command.heal
+  - axis.command.suicide
+  - axis.command.whitelist
+  - axis.command.enderchest
+  - axis.command.crate.give
+  - axis.command.crate.list
+  - axis.command.death.revive
+  - axis.command.death.refund
+  - axis.command.lives
+  - axis.command.economy
+  - axis.command.event.start
+  - axis.command.koth.start
+  - axis.command.kit.give
+  - axis.command.sotw
+  - axis.command.blacklist
+  - axis.command.unblacklist
+  - axis.command.faction.ban
+  - axis.command.faction.checkmute
+  - axis.command.faction.forcedemote
+  - axis.command.faction.forcejoin
+  - axis.command.faction.forcekick
+  - axis.command.faction.forceleader
+  - axis.command.faction.forcepromote
+  - axis.command.faction.mute
+  - axis.command.faction.unmute
+  - axis.command.faction.raid
+  - axis.command.faction.setdtr
+  - axis.command.faction.setdtrregen
+  - axis.command.rank
+Developer:
+  name: Developer
+  prefix: '&7[&bDeveloper&7] &b'
+  suffix: null
+  color: '&b'
+  default: false
+  priority: 2
+  permissions:
+  - utilities.player.staff
+  - axis.command.unmute
+  - axis.command.mute
+  - axis.command.ban
+  - axis.command.unban
+  - axis.command.rename
+  - axis.command.teleportcoords
+  - axis.command.mutechat
+  - axis.command.alts
+  - axis.command.history
+  - axis.command.repair
+  - axis.command.craft
+  - axis.command.gamemode
+  - axis.command.skull
+  - axis.command.world
+  - axis.command.more
+  - axis.command.kill
+  - axis.command.killentities
+  - axis.command.give
+  - axis.command.clearinventory
+  - axis.command.copyinventory
+  - axis.command.heal
+  - axis.command.suicide
+  - axis.command.whitelist
+  - axis.command.enderchest
+  - axis.command.crate.give
+  - axis.command.crate.list
+  - axis.command.death.revive
+  - axis.command.death.refund
+  - axis.command.lives
+  - axis.command.economy
+  - axis.command.event.start
+  - axis.command.koth.start
+  - axis.command.kit.give
+  - axis.command.sotw
+  - axis.command.blacklist
+  - axis.command.unblacklist
+  - axis.command.faction.ban
+  - axis.command.faction.checkmute
+  - axis.command.faction.forcedemote
+  - axis.command.faction.forcejoin
+  - axis.command.faction.forcekick
+  - axis.command.faction.forceleader
+  - axis.command.faction.forcepromote
+  - axis.command.faction.mute
+  - axis.command.faction.unmute
+  - axis.command.faction.raid
+  - axis.command.faction.setdtr
+  - axis.command.faction.setdtrregen
+Owner:
+  name: Owner
+  prefix: '&7[&4Owner&7] &4'
+  suffix: null
+  color: '&4'
+  default: false
+  priority: 1
+  permissions:
+  - all.permissions.fucking.noob.LOL
