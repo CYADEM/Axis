@@ -6,7 +6,215 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c63c802b-5d3a-42b8-925d-9322c3a5181c" name="Default Changelist" comment="" />
+    <list default="true" id="c63c802b-5d3a-42b8-925d-9322c3a5181c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/tinchx/axis/AxisConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/tinchx/axis/AxisConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/tinchx/axis/AxisPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/tinchx/axis/AxisPlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Axis-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/lang.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/AxisAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/AxisConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/AxisPlugin$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/AxisPlugin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/chat/ChatManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/general/DiscordCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/general/HubCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/general/JoinCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/general/ListCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/general/NickCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/general/PingCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/general/RenameCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/general/ReportCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/general/RequestCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/general/SocialCommand$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/general/SocialCommand$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/general/SocialCommand$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/general/SocialCommand$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/general/SocialCommand$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/general/SocialCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/general/TeamAuthCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/general/TeamSpeakCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/general/ToggleSoundsCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/general/ToggleTipsCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/general/WebRegisterCommand$PasswordResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/general/WebRegisterCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/general/ignore/IgnoreCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/general/ignore/arguments/IgnoreAddArgument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/general/ignore/arguments/IgnoreClearArgument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/general/ignore/arguments/IgnoreListArgument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/general/ignore/arguments/IgnoreRemoveArgument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/general/message/MessageCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/general/message/ReplyCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/general/message/ToggleMessagesCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/AltsCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/BackCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/BroadcastCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/ChatModeCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/ClearChatCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/ClearInventoryCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/DevCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/EnchantCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/FeedCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/FlightCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/HaltCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/HealCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/InvSeeCommand$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/InvSeeCommand$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/InvSeeCommand$11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/InvSeeCommand$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/InvSeeCommand$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/InvSeeCommand$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/InvSeeCommand$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/InvSeeCommand$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/InvSeeCommand$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/InvSeeCommand$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/InvSeeCommand$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/InvSeeCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/KillCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/MassSayCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/RealNameCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/SkullCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/SlotsCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/SpyCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/StaffCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/SudoCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/TeamCastCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/TeleportCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/TeleportHereCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/TeleportPosCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/VanishCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/WorldCommand$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/WorldCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/chat/ChatCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/chat/arguments/ChatSlowArgument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/chat/arguments/ChatToggleArgument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/gamemode/GameModeCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/gamemode/arguments/GamemodeAdventureArgument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/gamemode/arguments/GamemodeCreativeArgument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/gamemode/arguments/GamemodeSurvivalArgument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/permission/PermissionCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/permission/arguments/PermissionAddArgument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/permission/arguments/PermissionRemoveArgument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/punishment/BanCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/punishment/BlacklistCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/punishment/CheckCommand$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/punishment/CheckCommand$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/punishment/CheckCommand$2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/punishment/CheckCommand$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/punishment/CheckCommand$3$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/punishment/CheckCommand$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/punishment/CheckCommand$4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/punishment/CheckCommand$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/punishment/CheckCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/punishment/CheckbanCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/punishment/KickCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/punishment/MuteCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/punishment/TempBanCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/punishment/TempMuteCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/punishment/UnbanCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/punishment/UnmuteCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/punishment/WarnCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/server/ServerManagerCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/server/arguments/ManagerInfoArgument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/server/arguments/ManagerRunArgument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/whitelist/Whitelist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/whitelist/WhitelistCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/whitelist/arguments/WhitelistCreateArgument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/commands/staff/whitelist/arguments/WhitelistDeleteArgument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/configuration/Config.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/cooldown/Cooldown.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/cooldown/CooldownExpiredEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/cooldown/CooldownStartedEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/cooldown/CooldownStartingEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/cosmetic/PrefixCommand$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/cosmetic/PrefixCommand$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/cosmetic/PrefixCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/cosmetic/Tag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/cosmetic/TagCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/cosmetic/arguments/TagCreateArgument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/cosmetic/arguments/TagDeleteArgument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/cosmetic/arguments/TagListArgument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/cosmetic/arguments/TagPermArgument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/cosmetic/arguments/TagPrefixArgument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/cosmetic/arguments/TagSectionArgument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/database/AxisDatabase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/inventory/InventoryMaker$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/inventory/InventoryMaker$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/inventory/InventoryMaker$ClickableItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/inventory/InventoryMaker$Inventory2D$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/inventory/InventoryMaker$Inventory2D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/inventory/InventoryMaker$InventoryMakerHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/inventory/InventoryMaker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/inventory/MakerListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/listeners/ChatListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/listeners/CoreListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/listeners/HungerFixListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/listeners/PacketListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/listeners/StaffListener$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/listeners/StaffListener$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/listeners/StaffListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/listeners/events/CustomEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/listeners/events/PlayerBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/listeners/events/PlayerFirstJoinEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/listeners/events/PlayerFreezeEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/listeners/events/PlayerRankChangedEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/listeners/events/PlayerToggleModEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/profile/ChatType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/profile/Profile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/profile/ProfileListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/profile/commands/ProfileCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/punishment/Punishment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/punishment/PunishmentHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/punishment/PunishmentType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/rank/Rank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/rank/RankCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/rank/arguments/RankColorArgument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/rank/arguments/RankCreateArgument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/rank/arguments/RankDeleteArgument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/rank/arguments/RankImportArgument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/rank/arguments/RankInfoArgument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/rank/arguments/RankInheritanceArgument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/rank/arguments/RankListArgument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/rank/arguments/RankPermsArgument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/rank/arguments/RankPrefixArgument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/rank/arguments/RankPriorityArgument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/rank/arguments/RankSetArgument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/rank/arguments/RankSuffixArgument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/scoreboard/Aridi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/scoreboard/AridiAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/scoreboard/AridiEntry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/scoreboard/AridiManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/scoreboard/AridiStyle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/scoreboard/events/PlayerLoadScoreboardEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/scoreboard/events/PlayerUnloadScoreboardEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/scoreboard/events/PlayerUpdateScoreboardEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/scoreboard/listeners/AridiListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/server/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/server/ServerProfile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/task/AnnounceTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/utilities/AxisUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/utilities/Callback.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/utilities/chat/ChatUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/utilities/chat/ColorText.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/utilities/chat/MessageUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/utilities/command/AxisArgument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/utilities/command/AxisCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/utilities/command/AxisCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/utilities/item/ExecutableNBTTag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/utilities/item/ItemMaker$ItemMakerListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/utilities/item/ItemMaker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/utilities/location/LocationUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/utilities/task/TaskUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/utilities/time/TimeUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/me/tinchx/axis/utilities/time/TimeUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/plugin.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ranks.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/settings.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/original-Axis-1.0-SNAPSHOT.jar" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,10 +234,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/me/tinchx/axis/cosmetic/arguments/TagSectionArgument.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/me/tinchx/axis/AxisConfiguration.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+            <state relative-caret-position="279">
+              <caret line="45" column="73" selection-start-line="45" selection-start-column="73" selection-end-line="45" selection-end-column="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/me/tinchx/axis/AxisPlugin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="146" column="37" lean-forward="true" selection-start-line="146" selection-start-column="37" selection-end-line="146" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -42,24 +259,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="576">
               <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/me/tinchx/axis/cosmetic/PrefixCommand.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="71" column="41" selection-start-line="71" selection-start-column="41" selection-end-line="71" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/me/tinchx/axis/AxisConfiguration.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2664">
-              <caret line="118" selection-start-line="118" selection-end-line="118" />
             </state>
           </provider>
         </entry>
@@ -113,6 +312,9 @@
       <replace>maker</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -151,7 +353,6 @@
         <option value="$PROJECT_DIR$/src/main/java/me/tinchx/axis/listeners/StaffListener.java" />
         <option value="$PROJECT_DIR$/src/main/java/me/tinchx/axis/listeners/PacketListener.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/me/tinchx/axis/AxisPlugin.java" />
         <option value="$PROJECT_DIR$/src/main/java/me/tinchx/axis/listeners/events/PlayerEffectRemovedEvent.java" />
         <option value="$PROJECT_DIR$/src/main/java/me/tinchx/axis/listeners/events/PlayerEffectExtendedEvent.java" />
         <option value="$PROJECT_DIR$/src/main/java/me/tinchx/axis/listeners/events/PlayerEffectAddedEvent.java" />
@@ -165,8 +366,9 @@
         <option value="$PROJECT_DIR$/src/main/java/me/tinchx/axis/rank/Rank.java" />
         <option value="$PROJECT_DIR$/src/main/java/me/tinchx/axis/rank/RankCommand.java" />
         <option value="$PROJECT_DIR$/src/main/resources/settings.yml" />
-        <option value="$PROJECT_DIR$/src/main/java/me/tinchx/axis/AxisConfiguration.java" />
         <option value="$PROJECT_DIR$/src/main/java/me/tinchx/axis/cosmetic/PrefixCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/tinchx/axis/AxisConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/me/tinchx/axis/AxisPlugin.java" />
       </list>
     </option>
   </component>
@@ -185,7 +387,7 @@
   <component name="MavenRunner">
     <option name="delegateBuildToMaven" value="true" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1616" />
@@ -198,6 +400,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -238,64 +442,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="axis" type="462c0819:PsiDirectoryNode" />
-              <item name="commands" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Axis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Axis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="axis" type="462c0819:PsiDirectoryNode" />
-              <item name="commands" type="462c0819:PsiDirectoryNode" />
-              <item name="general" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Axis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Axis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="axis" type="462c0819:PsiDirectoryNode" />
               <item name="cosmetic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Axis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Axis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="axis" type="462c0819:PsiDirectoryNode" />
-              <item name="cosmetic" type="462c0819:PsiDirectoryNode" />
-              <item name="arguments" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Axis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Axis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="axis" type="462c0819:PsiDirectoryNode" />
-              <item name="listeners" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Axis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Axis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="axis" type="462c0819:PsiDirectoryNode" />
-              <item name="rank" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Axis" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Axis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="axis" type="462c0819:PsiDirectoryNode" />
-              <item name="rank" type="462c0819:PsiDirectoryNode" />
-              <item name="arguments" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Axis" type="b2602c69:ProjectViewProjectNode" />
@@ -308,8 +455,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -394,8 +539,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26028278" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26349613" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -409,7 +555,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32914925" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32914925" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32914925" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32914925" />
@@ -428,13 +574,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/tinchx/axis/rank/arguments/RankPriorityArgument.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="47" column="66" selection-start-line="47" selection-start-column="66" selection-end-line="47" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/me/tinchx/axis/rank/arguments/RankStaffArgument.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/me/tinchx/axis/rank/arguments/RankSuffixArgument.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -692,16 +831,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/me/tinchx/axis/rank/arguments/RankIDArgument.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/tinchx/axis/AxisPlugin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4">
-          <caret line="180" column="9" lean-forward="true" selection-start-line="180" selection-start-column="9" selection-end-line="180" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/me/tinchx/axis/rank/arguments/RankInfoArgument.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
@@ -733,6 +862,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/tinchx/axis/cosmetic/PrefixCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="77" column="49" selection-start-line="77" selection-start-column="49" selection-end-line="77" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/settings.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
@@ -742,15 +878,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/me/tinchx/axis/AxisConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2664">
-          <caret line="118" selection-start-line="118" selection-end-line="118" />
+        <state relative-caret-position="279">
+          <caret line="45" column="73" selection-start-line="45" selection-start-column="73" selection-end-line="45" selection-end-column="73" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/me/tinchx/axis/cosmetic/PrefixCommand.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/System.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="71" column="41" selection-start-line="71" selection-start-column="41" selection-end-line="71" selection-end-column="41" />
+        <state relative-caret-position="-311">
+          <caret line="650" column="26" selection-start-line="650" selection-start-column="26" selection-end-line="650" selection-end-column="26" />
+          <folding>
+            <element signature="e#26565#26566#0" expanded="true" />
+            <element signature="e#26601#26602#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/tinchx/axis/AxisPlugin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="146" column="37" lean-forward="true" selection-start-line="146" selection-start-column="37" selection-end-line="146" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -43,6 +43,7 @@ public class AxisConfiguration {
         stringMap.put("staff_leave", lang.getString("lang.staff_leave"));
         stringMap.put("request", lang.getString("lang.request"));
         stringMap.put("report", lang.getString("lang.report"));
+        stringMap.put("teamspeak", config.getString("server.teamspeak"));
         stringMap.put("server_lobby", config.getString("server.lobby_name"));
         stringMap.put("connecting_to", lang.getString("lang.connecting_to"));
         stringMap.put("rank_updated_message", lang.getString("lang.rank_updated"));

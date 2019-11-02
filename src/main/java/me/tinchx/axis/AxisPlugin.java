@@ -148,7 +148,7 @@ public class AxisPlugin extends JavaPlugin {
             for (Player online : Bukkit.getServer().getOnlinePlayers()) {
                 Profile profile = AxisAPI.getProfile(online);
                 if (profile.isFrozen()) {
-                    online.sendMessage(AxisConfiguration.getString("freeze_message"));
+                    online.sendMessage(AxisConfiguration.getString("freeze_message").replace("{NEWLINE}", System.lineSeparator()));
                 }
             }
         }, 0L, 30 * 20L);
