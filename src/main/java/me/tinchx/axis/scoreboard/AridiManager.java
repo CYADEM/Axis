@@ -72,9 +72,9 @@ public class AridiManager {
                     }
                 }
 
-                new PlayerUpdateScoreboardEvent(player, aridi).call();
+                boolean cancelled = !(new PlayerUpdateScoreboardEvent(player, aridi).call());
 
-                if (player.getScoreboard() == scoreboard) {
+                if (player.getScoreboard() == scoreboard || cancelled) {
                     continue;
                 }
 

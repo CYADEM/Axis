@@ -1,5 +1,0 @@
-name: Axis
-main: me.tinchx.axis.AxisPlugin
-version: 1.0-SNAPSHOT
-author: Tinchx
-load: STARTUP
